@@ -36,5 +36,8 @@
     "node-fetch": "^2.6.1",
     "sinon": "^7.2.3",
     "sinon-stub-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "install": "^0.13.0"
   }
 }
